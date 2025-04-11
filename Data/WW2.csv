@@ -1,0 +1,9 @@
+Countries,France,GB,US,SU,Germany,Italy,Japan,China
+France,0,1,0,0,-1,-1,0,0
+GB,1,0,0,0,-1,-1,0,0
+US,0,0,0,0,0,0,0,0
+SU,0,0,0,0,0,0,0,0
+Germany,-1,-1,0,0,0,1,1,0
+Italy,-1,-1,0,0,1,0,1,0
+Japan,0,0,0,0,1,1,0,-1
+China,0,0,0,0,0,0,-1,0

@@ -6,8 +6,12 @@ Spreadsheets: This folder contains Numbers files in the form of adjacency matric
 
 Starting: This folder contains CSV files with the alliance ajacency matrices near the "start" date for WW1 and WW2 at a year when the network begins to trend toward balance.
 
+Timeline: This folder contains 10 CSV files with alliance ajacency matrices representing the past 10 years of alliances for several major world powers
+
 ### Code
 
 alliances.ipynb: The parameters in this file can be changed to run an algorithm on various CSV files which visualizes how the network might be balanced over time.
+
+balance_trend.ipynb: This file represents the change in balance in a network over the past 10 years as a line graph
 
 ### Docs

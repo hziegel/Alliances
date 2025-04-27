@@ -14,4 +14,6 @@ alliances.ipynb: The parameters in this file can be changed to run an algorithm 
 
 balance_trend.ipynb: This file represents the change in balance in a network over the past 10 years as a line graph
 
+CoW_analysis: This file analyzes imbalance data from 1946 to 1999 using a LSTM in order to predict the time series
+
 ### Docs
